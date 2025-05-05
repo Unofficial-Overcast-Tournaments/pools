@@ -20,7 +20,7 @@ Each round has a veto system. You will play a match on `Charge: TE` in order to 
 
 ## Commands
 The command to ban/pick a map is `/veto <number>`. The number will be displayed in chat. It will look like this:
-![Example](https://imgur.com/a/oBhOGtz)
+![Example](https://imgur.com/mM9W87P)
 
 ## Need help?
 If you need help, make sure to contact iCompass or feldwyn on Discord.
